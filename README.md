@@ -1,4 +1,4 @@
-### Cookie Clicker
+## Cookie Clicker
 
 The Cookie Clicker game replicated in Java using the LibGDX library.
 
